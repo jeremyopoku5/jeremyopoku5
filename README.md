@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jeremyopoku5
+- 👋 Hi, I’m @Jeremy
 - 👀 I’m interested in Aviation 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any Pyton related projects 
+- 💞️ I’m looking to collaborate on any Python related projects 
 - 📫 How to reach me email Jeremyopoku5@gmail.com cell:+19297145712
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: im 6'7
